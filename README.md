@@ -1,3 +1,6 @@
-This repository contains Solutions to SPOJ (Sphere Online Judge) problems in
+This repository contains Solutions to SPOJ (Sphere Online Judge) problems 
 Language : c++ or c
-Contact me at my email : kartikayemail@gmail.com 
+
+
+
+Contact me at : kartikayemail@gmail.com 
